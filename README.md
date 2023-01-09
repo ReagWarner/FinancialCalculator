@@ -1,6 +1,5 @@
-# Hyperion Capstone 1: Finance Calculator
+# Financial Calculator
 
-For this task, 
-assume that you have been approached by a small financial company 
-and asked to create a program that allows the user to access two different financial calculators: 
+For this task, assume that you have been approached by a small financial company and asked to create a program that allows the user to access two different financial calculators: 
+
 an investment calculator and a home loan repayment calculator.
